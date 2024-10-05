@@ -1,1 +1,5 @@
 *.csv
+myenv
+*.log
+logs/errors_log.log
+logs/info_log.log
