@@ -140,7 +140,7 @@ class FeatEng:
         for col in columns:
             self.df[col] = scaler.fit_transform(self.df[[col]])
 
-    # scatter plot
+    # clusters 
     def risk_space(self):
         self.info_log.info('Using k-means for getting default behavior')
         # Perform KMeans clustering on RFMS space
