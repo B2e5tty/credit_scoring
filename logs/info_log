@@ -838,3 +838,1115 @@
 2024-10-05 18:51:55,315 - info - INFO - Catagorical datatype distribution plot
 2024-10-05 18:51:59,307 - info - INFO - Numrical datatype distribution plot
 2024-10-05 18:52:00,179 - info - INFO - Correlation Analaysis of numerical features
+2024-10-07 16:31:58,268 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:31:58,793 - info - INFO - Return the dataframe
+2024-10-07 16:32:23,620 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:32:23,620 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:32:24,100 - info - INFO - Return the dataframe
+2024-10-07 16:32:24,100 - info - INFO - Return the dataframe
+2024-10-07 16:32:27,274 - info - INFO - Return the dataframe
+2024-10-07 16:32:27,274 - info - INFO - Return the dataframe
+2024-10-07 16:32:27,274 - info - INFO - Return the dataframe
+2024-10-07 16:32:39,975 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:32:39,975 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:32:39,975 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:32:39,975 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:32:40,370 - info - INFO - Return the dataframe
+2024-10-07 16:32:40,370 - info - INFO - Return the dataframe
+2024-10-07 16:32:40,370 - info - INFO - Return the dataframe
+2024-10-07 16:32:40,370 - info - INFO - Return the dataframe
+2024-10-07 16:32:43,365 - info - INFO - Return the dataframe
+2024-10-07 16:32:43,365 - info - INFO - Return the dataframe
+2024-10-07 16:32:43,365 - info - INFO - Return the dataframe
+2024-10-07 16:32:43,365 - info - INFO - Return the dataframe
+2024-10-07 16:32:43,365 - info - INFO - Return the dataframe
+2024-10-07 16:34:09,902 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:34:09,902 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:34:09,902 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:34:09,902 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:34:09,902 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:34:09,902 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:34:09,902 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:34:30,287 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:34:30,287 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:34:30,287 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:34:30,287 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:34:30,287 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:34:30,287 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:34:30,287 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:34:30,287 - info - INFO - Change datatype of some columns to category
+2024-10-07 16:34:30,683 - info - INFO - Return the dataframe
+2024-10-07 16:34:30,683 - info - INFO - Return the dataframe
+2024-10-07 16:34:30,683 - info - INFO - Return the dataframe
+2024-10-07 16:34:30,683 - info - INFO - Return the dataframe
+2024-10-07 16:34:30,683 - info - INFO - Return the dataframe
+2024-10-07 16:34:30,683 - info - INFO - Return the dataframe
+2024-10-07 16:34:30,683 - info - INFO - Return the dataframe
+2024-10-07 16:34:30,683 - info - INFO - Return the dataframe
+2024-10-08 03:30:44,584 - info - INFO - Change datatype of some columns to category
+2024-10-08 03:30:45,039 - info - INFO - Return the dataframe
+2024-10-08 03:33:03,584 - info - INFO - Change datatype of some columns to category
+2024-10-08 03:33:03,584 - info - INFO - Change datatype of some columns to category
+2024-10-08 03:33:05,024 - info - INFO - Return the dataframe
+2024-10-08 03:33:05,024 - info - INFO - Return the dataframe
+2024-10-08 09:09:51,207 - info - INFO - Change datatype of some columns to category
+2024-10-08 09:09:52,469 - info - INFO - Return the dataframe
+2024-10-08 09:10:22,295 - info - INFO - Change datatype of some columns to category
+2024-10-08 09:10:22,295 - info - INFO - Change datatype of some columns to category
+2024-10-08 09:10:22,695 - info - INFO - Return the dataframe
+2024-10-08 09:10:22,695 - info - INFO - Return the dataframe
+2024-10-08 11:37:35,383 - info - INFO - Change datatype of some columns to category
+2024-10-08 11:37:35,383 - info - INFO - Change datatype of some columns to category
+2024-10-08 11:37:35,383 - info - INFO - Change datatype of some columns to category
+2024-10-08 11:37:35,850 - info - INFO - Return the dataframe
+2024-10-08 11:37:35,850 - info - INFO - Return the dataframe
+2024-10-08 11:37:35,850 - info - INFO - Return the dataframe
+2024-10-08 11:55:45,507 - info - INFO - Change datatype of some columns to category
+2024-10-08 11:55:45,507 - info - INFO - Change datatype of some columns to category
+2024-10-08 11:55:45,507 - info - INFO - Change datatype of some columns to category
+2024-10-08 11:55:45,507 - info - INFO - Change datatype of some columns to category
+2024-10-08 11:55:46,986 - info - INFO - Return the dataframe
+2024-10-08 11:55:46,986 - info - INFO - Return the dataframe
+2024-10-08 11:55:46,986 - info - INFO - Return the dataframe
+2024-10-08 11:55:46,986 - info - INFO - Return the dataframe
+2024-10-08 11:56:51,767 - info - INFO - Change datatype of some columns to category
+2024-10-08 11:56:51,767 - info - INFO - Change datatype of some columns to category
+2024-10-08 11:56:51,767 - info - INFO - Change datatype of some columns to category
+2024-10-08 11:56:51,767 - info - INFO - Change datatype of some columns to category
+2024-10-08 11:56:51,767 - info - INFO - Change datatype of some columns to category
+2024-10-08 11:56:52,747 - info - INFO - Return the dataframe
+2024-10-08 11:56:52,747 - info - INFO - Return the dataframe
+2024-10-08 11:56:52,747 - info - INFO - Return the dataframe
+2024-10-08 11:56:52,747 - info - INFO - Return the dataframe
+2024-10-08 11:56:52,747 - info - INFO - Return the dataframe
+2024-10-08 11:57:51,855 - info - INFO - Return the dataframe
+2024-10-08 11:57:51,855 - info - INFO - Return the dataframe
+2024-10-08 11:57:51,855 - info - INFO - Return the dataframe
+2024-10-08 11:57:51,855 - info - INFO - Return the dataframe
+2024-10-08 11:57:51,855 - info - INFO - Return the dataframe
+2024-10-08 12:46:06,949 - info - INFO - Return the dataframe
+2024-10-08 12:46:06,949 - info - INFO - Return the dataframe
+2024-10-08 12:46:06,949 - info - INFO - Return the dataframe
+2024-10-08 12:46:06,949 - info - INFO - Return the dataframe
+2024-10-08 12:46:06,949 - info - INFO - Return the dataframe
+2024-10-08 12:46:13,449 - info - INFO - Return the dataframe
+2024-10-08 12:46:13,449 - info - INFO - Return the dataframe
+2024-10-08 12:46:13,449 - info - INFO - Return the dataframe
+2024-10-08 12:46:13,449 - info - INFO - Return the dataframe
+2024-10-08 12:46:13,449 - info - INFO - Return the dataframe
+2024-10-08 12:47:12,055 - info - INFO - Return the dataframe
+2024-10-08 12:47:12,055 - info - INFO - Return the dataframe
+2024-10-08 12:47:12,055 - info - INFO - Return the dataframe
+2024-10-08 12:47:12,055 - info - INFO - Return the dataframe
+2024-10-08 12:47:12,055 - info - INFO - Return the dataframe
+2024-10-08 12:47:18,011 - info - INFO - Return the dataframe
+2024-10-08 12:47:18,011 - info - INFO - Return the dataframe
+2024-10-08 12:47:18,011 - info - INFO - Return the dataframe
+2024-10-08 12:47:18,011 - info - INFO - Return the dataframe
+2024-10-08 12:47:18,011 - info - INFO - Return the dataframe
+2024-10-08 12:47:27,832 - info - INFO - Return the dataframe
+2024-10-08 12:47:27,832 - info - INFO - Return the dataframe
+2024-10-08 12:47:27,832 - info - INFO - Return the dataframe
+2024-10-08 12:47:27,832 - info - INFO - Return the dataframe
+2024-10-08 12:47:27,832 - info - INFO - Return the dataframe
+2024-10-08 13:35:26,672 - info - INFO - Return the dataframe
+2024-10-08 13:35:26,672 - info - INFO - Return the dataframe
+2024-10-08 13:35:26,672 - info - INFO - Return the dataframe
+2024-10-08 13:35:26,672 - info - INFO - Return the dataframe
+2024-10-08 13:35:26,672 - info - INFO - Return the dataframe
+2024-10-08 13:35:35,190 - info - INFO - Return the dataframe
+2024-10-08 13:35:35,190 - info - INFO - Return the dataframe
+2024-10-08 13:35:35,190 - info - INFO - Return the dataframe
+2024-10-08 13:35:35,190 - info - INFO - Return the dataframe
+2024-10-08 13:35:35,190 - info - INFO - Return the dataframe
+2024-10-08 13:36:02,311 - info - INFO - Return the dataframe
+2024-10-08 13:36:02,311 - info - INFO - Return the dataframe
+2024-10-08 13:36:02,311 - info - INFO - Return the dataframe
+2024-10-08 13:36:02,311 - info - INFO - Return the dataframe
+2024-10-08 13:36:02,311 - info - INFO - Return the dataframe
+2024-10-08 13:36:35,061 - info - INFO - Return the dataframe
+2024-10-08 13:36:35,061 - info - INFO - Return the dataframe
+2024-10-08 13:36:35,061 - info - INFO - Return the dataframe
+2024-10-08 13:36:35,061 - info - INFO - Return the dataframe
+2024-10-08 13:36:35,061 - info - INFO - Return the dataframe
+2024-10-08 13:36:49,763 - info - INFO - Return the dataframe
+2024-10-08 13:36:49,763 - info - INFO - Return the dataframe
+2024-10-08 13:36:49,763 - info - INFO - Return the dataframe
+2024-10-08 13:36:49,763 - info - INFO - Return the dataframe
+2024-10-08 13:36:49,763 - info - INFO - Return the dataframe
+2024-10-08 13:37:24,760 - info - INFO - Return the dataframe
+2024-10-08 13:37:24,760 - info - INFO - Return the dataframe
+2024-10-08 13:37:24,760 - info - INFO - Return the dataframe
+2024-10-08 13:37:24,760 - info - INFO - Return the dataframe
+2024-10-08 13:37:24,760 - info - INFO - Return the dataframe
+2024-10-08 13:37:50,859 - info - INFO - Return the dataframe
+2024-10-08 13:37:50,859 - info - INFO - Return the dataframe
+2024-10-08 13:37:50,859 - info - INFO - Return the dataframe
+2024-10-08 13:37:50,859 - info - INFO - Return the dataframe
+2024-10-08 13:37:50,859 - info - INFO - Return the dataframe
+2024-10-08 13:38:34,279 - info - INFO - Return the dataframe
+2024-10-08 13:38:34,279 - info - INFO - Return the dataframe
+2024-10-08 13:38:34,279 - info - INFO - Return the dataframe
+2024-10-08 13:38:34,279 - info - INFO - Return the dataframe
+2024-10-08 13:38:34,279 - info - INFO - Return the dataframe
+2024-10-08 13:38:41,499 - info - INFO - Return the dataframe
+2024-10-08 13:38:41,499 - info - INFO - Return the dataframe
+2024-10-08 13:38:41,499 - info - INFO - Return the dataframe
+2024-10-08 13:38:41,499 - info - INFO - Return the dataframe
+2024-10-08 13:38:41,499 - info - INFO - Return the dataframe
+2024-10-08 13:38:52,707 - info - INFO - Return the dataframe
+2024-10-08 13:38:52,707 - info - INFO - Return the dataframe
+2024-10-08 13:38:52,707 - info - INFO - Return the dataframe
+2024-10-08 13:38:52,707 - info - INFO - Return the dataframe
+2024-10-08 13:38:52,707 - info - INFO - Return the dataframe
+2024-10-08 13:39:02,835 - info - INFO - Return the dataframe
+2024-10-08 13:39:02,835 - info - INFO - Return the dataframe
+2024-10-08 13:39:02,835 - info - INFO - Return the dataframe
+2024-10-08 13:39:02,835 - info - INFO - Return the dataframe
+2024-10-08 13:39:02,835 - info - INFO - Return the dataframe
+2024-10-08 13:39:11,294 - info - INFO - Return the dataframe
+2024-10-08 13:39:11,294 - info - INFO - Return the dataframe
+2024-10-08 13:39:11,294 - info - INFO - Return the dataframe
+2024-10-08 13:39:11,294 - info - INFO - Return the dataframe
+2024-10-08 13:39:11,294 - info - INFO - Return the dataframe
+2024-10-08 13:39:22,776 - info - INFO - Return the dataframe
+2024-10-08 13:39:22,776 - info - INFO - Return the dataframe
+2024-10-08 13:39:22,776 - info - INFO - Return the dataframe
+2024-10-08 13:39:22,776 - info - INFO - Return the dataframe
+2024-10-08 13:39:22,776 - info - INFO - Return the dataframe
+2024-10-08 13:40:17,613 - info - INFO - Return the dataframe
+2024-10-08 13:40:17,613 - info - INFO - Return the dataframe
+2024-10-08 13:40:17,613 - info - INFO - Return the dataframe
+2024-10-08 13:40:17,613 - info - INFO - Return the dataframe
+2024-10-08 13:40:17,613 - info - INFO - Return the dataframe
+2024-10-08 13:40:46,751 - info - INFO - Return the dataframe
+2024-10-08 13:40:46,751 - info - INFO - Return the dataframe
+2024-10-08 13:40:46,751 - info - INFO - Return the dataframe
+2024-10-08 13:40:46,751 - info - INFO - Return the dataframe
+2024-10-08 13:40:46,751 - info - INFO - Return the dataframe
+2024-10-08 13:41:06,735 - info - INFO - Return the dataframe
+2024-10-08 13:41:06,735 - info - INFO - Return the dataframe
+2024-10-08 13:41:06,735 - info - INFO - Return the dataframe
+2024-10-08 13:41:06,735 - info - INFO - Return the dataframe
+2024-10-08 13:41:06,735 - info - INFO - Return the dataframe
+2024-10-08 13:41:16,747 - info - INFO - Return the dataframe
+2024-10-08 13:41:16,747 - info - INFO - Return the dataframe
+2024-10-08 13:41:16,747 - info - INFO - Return the dataframe
+2024-10-08 13:41:16,747 - info - INFO - Return the dataframe
+2024-10-08 13:41:16,747 - info - INFO - Return the dataframe
+2024-10-08 13:41:27,223 - info - INFO - Return the dataframe
+2024-10-08 13:41:27,223 - info - INFO - Return the dataframe
+2024-10-08 13:41:27,223 - info - INFO - Return the dataframe
+2024-10-08 13:41:27,223 - info - INFO - Return the dataframe
+2024-10-08 13:41:27,223 - info - INFO - Return the dataframe
+2024-10-08 13:41:48,992 - info - INFO - Return the dataframe
+2024-10-08 13:41:48,992 - info - INFO - Return the dataframe
+2024-10-08 13:41:48,992 - info - INFO - Return the dataframe
+2024-10-08 13:41:48,992 - info - INFO - Return the dataframe
+2024-10-08 13:41:48,992 - info - INFO - Return the dataframe
+2024-10-08 13:42:46,217 - info - INFO - Return the dataframe
+2024-10-08 13:42:46,217 - info - INFO - Return the dataframe
+2024-10-08 13:42:46,217 - info - INFO - Return the dataframe
+2024-10-08 13:42:46,217 - info - INFO - Return the dataframe
+2024-10-08 13:42:46,217 - info - INFO - Return the dataframe
+2024-10-08 13:43:42,571 - info - INFO - Return the dataframe
+2024-10-08 13:43:42,571 - info - INFO - Return the dataframe
+2024-10-08 13:43:42,571 - info - INFO - Return the dataframe
+2024-10-08 13:43:42,571 - info - INFO - Return the dataframe
+2024-10-08 13:43:42,571 - info - INFO - Return the dataframe
+2024-10-08 13:44:05,269 - info - INFO - Return the dataframe
+2024-10-08 13:44:05,269 - info - INFO - Return the dataframe
+2024-10-08 13:44:05,269 - info - INFO - Return the dataframe
+2024-10-08 13:44:05,269 - info - INFO - Return the dataframe
+2024-10-08 13:44:05,269 - info - INFO - Return the dataframe
+2024-10-08 13:44:49,865 - info - INFO - Return the dataframe
+2024-10-08 13:44:49,865 - info - INFO - Return the dataframe
+2024-10-08 13:44:49,865 - info - INFO - Return the dataframe
+2024-10-08 13:44:49,865 - info - INFO - Return the dataframe
+2024-10-08 13:44:49,865 - info - INFO - Return the dataframe
+2024-10-08 13:45:36,790 - info - INFO - Return the dataframe
+2024-10-08 13:45:36,790 - info - INFO - Return the dataframe
+2024-10-08 13:45:36,790 - info - INFO - Return the dataframe
+2024-10-08 13:45:36,790 - info - INFO - Return the dataframe
+2024-10-08 13:45:36,790 - info - INFO - Return the dataframe
+2024-10-08 13:45:47,097 - info - INFO - Return the dataframe
+2024-10-08 13:45:47,097 - info - INFO - Return the dataframe
+2024-10-08 13:45:47,097 - info - INFO - Return the dataframe
+2024-10-08 13:45:47,097 - info - INFO - Return the dataframe
+2024-10-08 13:45:47,097 - info - INFO - Return the dataframe
+2024-10-08 13:46:17,438 - info - INFO - Return the dataframe
+2024-10-08 13:46:17,438 - info - INFO - Return the dataframe
+2024-10-08 13:46:17,438 - info - INFO - Return the dataframe
+2024-10-08 13:46:17,438 - info - INFO - Return the dataframe
+2024-10-08 13:46:17,438 - info - INFO - Return the dataframe
+2024-10-08 13:46:35,868 - info - INFO - Return the dataframe
+2024-10-08 13:46:35,868 - info - INFO - Return the dataframe
+2024-10-08 13:46:35,868 - info - INFO - Return the dataframe
+2024-10-08 13:46:35,868 - info - INFO - Return the dataframe
+2024-10-08 13:46:35,868 - info - INFO - Return the dataframe
+2024-10-08 13:46:43,055 - info - INFO - Return the dataframe
+2024-10-08 13:46:43,055 - info - INFO - Return the dataframe
+2024-10-08 13:46:43,055 - info - INFO - Return the dataframe
+2024-10-08 13:46:43,055 - info - INFO - Return the dataframe
+2024-10-08 13:46:43,055 - info - INFO - Return the dataframe
+2024-10-08 13:47:55,686 - info - INFO - Return the dataframe
+2024-10-08 13:47:55,686 - info - INFO - Return the dataframe
+2024-10-08 13:47:55,686 - info - INFO - Return the dataframe
+2024-10-08 13:47:55,686 - info - INFO - Return the dataframe
+2024-10-08 13:47:55,686 - info - INFO - Return the dataframe
+2024-10-08 13:49:46,963 - info - INFO - Return the dataframe
+2024-10-08 13:49:46,963 - info - INFO - Return the dataframe
+2024-10-08 13:49:46,963 - info - INFO - Return the dataframe
+2024-10-08 13:49:46,963 - info - INFO - Return the dataframe
+2024-10-08 13:49:46,963 - info - INFO - Return the dataframe
+2024-10-08 13:50:09,337 - info - INFO - Return the dataframe
+2024-10-08 13:50:09,337 - info - INFO - Return the dataframe
+2024-10-08 13:50:09,337 - info - INFO - Return the dataframe
+2024-10-08 13:50:09,337 - info - INFO - Return the dataframe
+2024-10-08 13:50:09,337 - info - INFO - Return the dataframe
+2024-10-08 13:53:09,430 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:53:09,430 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:53:09,430 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:53:09,430 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:53:09,430 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:53:09,430 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:53:10,579 - info - INFO - Return the dataframe
+2024-10-08 13:53:10,579 - info - INFO - Return the dataframe
+2024-10-08 13:53:10,579 - info - INFO - Return the dataframe
+2024-10-08 13:53:10,579 - info - INFO - Return the dataframe
+2024-10-08 13:53:10,579 - info - INFO - Return the dataframe
+2024-10-08 13:53:10,579 - info - INFO - Return the dataframe
+2024-10-08 13:55:48,080 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:55:48,080 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:55:48,080 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:55:48,080 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:55:48,080 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:55:48,080 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:55:48,080 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:55:49,013 - info - INFO - Return the dataframe
+2024-10-08 13:55:49,013 - info - INFO - Return the dataframe
+2024-10-08 13:55:49,013 - info - INFO - Return the dataframe
+2024-10-08 13:55:49,013 - info - INFO - Return the dataframe
+2024-10-08 13:55:49,013 - info - INFO - Return the dataframe
+2024-10-08 13:55:49,013 - info - INFO - Return the dataframe
+2024-10-08 13:55:49,013 - info - INFO - Return the dataframe
+2024-10-08 13:58:08,404 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:58:08,404 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:58:08,404 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:58:08,404 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:58:08,404 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:58:08,404 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:58:08,404 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:58:08,404 - info - INFO - Change datatype of some columns to category
+2024-10-08 13:58:09,355 - info - INFO - Return the dataframe
+2024-10-08 13:58:09,355 - info - INFO - Return the dataframe
+2024-10-08 13:58:09,355 - info - INFO - Return the dataframe
+2024-10-08 13:58:09,355 - info - INFO - Return the dataframe
+2024-10-08 13:58:09,355 - info - INFO - Return the dataframe
+2024-10-08 13:58:09,355 - info - INFO - Return the dataframe
+2024-10-08 13:58:09,355 - info - INFO - Return the dataframe
+2024-10-08 13:58:09,355 - info - INFO - Return the dataframe
+2024-10-08 14:00:09,920 - info - INFO - Return the dataframe
+2024-10-08 14:00:09,920 - info - INFO - Return the dataframe
+2024-10-08 14:00:09,920 - info - INFO - Return the dataframe
+2024-10-08 14:00:09,920 - info - INFO - Return the dataframe
+2024-10-08 14:00:09,920 - info - INFO - Return the dataframe
+2024-10-08 14:00:09,920 - info - INFO - Return the dataframe
+2024-10-08 14:00:09,920 - info - INFO - Return the dataframe
+2024-10-08 14:00:09,920 - info - INFO - Return the dataframe
+2024-10-08 14:00:27,872 - info - INFO - Return the dataframe
+2024-10-08 14:00:27,872 - info - INFO - Return the dataframe
+2024-10-08 14:00:27,872 - info - INFO - Return the dataframe
+2024-10-08 14:00:27,872 - info - INFO - Return the dataframe
+2024-10-08 14:00:27,872 - info - INFO - Return the dataframe
+2024-10-08 14:00:27,872 - info - INFO - Return the dataframe
+2024-10-08 14:00:27,872 - info - INFO - Return the dataframe
+2024-10-08 14:00:27,872 - info - INFO - Return the dataframe
+2024-10-08 14:00:33,491 - info - INFO - Return the dataframe
+2024-10-08 14:00:33,491 - info - INFO - Return the dataframe
+2024-10-08 14:00:33,491 - info - INFO - Return the dataframe
+2024-10-08 14:00:33,491 - info - INFO - Return the dataframe
+2024-10-08 14:00:33,491 - info - INFO - Return the dataframe
+2024-10-08 14:00:33,491 - info - INFO - Return the dataframe
+2024-10-08 14:00:33,491 - info - INFO - Return the dataframe
+2024-10-08 14:00:33,491 - info - INFO - Return the dataframe
+2024-10-08 14:01:45,484 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:01:45,484 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:01:45,484 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:01:45,484 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:01:45,484 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:01:45,484 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:01:45,484 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:01:45,484 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:01:45,484 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:01:46,603 - info - INFO - Return the dataframe
+2024-10-08 14:01:46,603 - info - INFO - Return the dataframe
+2024-10-08 14:01:46,603 - info - INFO - Return the dataframe
+2024-10-08 14:01:46,603 - info - INFO - Return the dataframe
+2024-10-08 14:01:46,603 - info - INFO - Return the dataframe
+2024-10-08 14:01:46,603 - info - INFO - Return the dataframe
+2024-10-08 14:01:46,603 - info - INFO - Return the dataframe
+2024-10-08 14:01:46,603 - info - INFO - Return the dataframe
+2024-10-08 14:01:46,603 - info - INFO - Return the dataframe
+2024-10-08 14:05:09,020 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:05:09,020 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:05:09,020 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:05:09,020 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:05:09,020 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:05:09,020 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:05:09,020 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:05:09,020 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:05:09,020 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:05:09,020 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:05:09,956 - info - INFO - Return the dataframe
+2024-10-08 14:05:09,956 - info - INFO - Return the dataframe
+2024-10-08 14:05:09,956 - info - INFO - Return the dataframe
+2024-10-08 14:05:09,956 - info - INFO - Return the dataframe
+2024-10-08 14:05:09,956 - info - INFO - Return the dataframe
+2024-10-08 14:05:09,956 - info - INFO - Return the dataframe
+2024-10-08 14:05:09,956 - info - INFO - Return the dataframe
+2024-10-08 14:05:09,956 - info - INFO - Return the dataframe
+2024-10-08 14:05:09,956 - info - INFO - Return the dataframe
+2024-10-08 14:05:09,956 - info - INFO - Return the dataframe
+2024-10-08 14:05:36,169 - info - INFO - Return the dataframe
+2024-10-08 14:05:36,169 - info - INFO - Return the dataframe
+2024-10-08 14:05:36,169 - info - INFO - Return the dataframe
+2024-10-08 14:05:36,169 - info - INFO - Return the dataframe
+2024-10-08 14:05:36,169 - info - INFO - Return the dataframe
+2024-10-08 14:05:36,169 - info - INFO - Return the dataframe
+2024-10-08 14:05:36,169 - info - INFO - Return the dataframe
+2024-10-08 14:05:36,169 - info - INFO - Return the dataframe
+2024-10-08 14:05:36,169 - info - INFO - Return the dataframe
+2024-10-08 14:05:36,169 - info - INFO - Return the dataframe
+2024-10-08 14:05:45,661 - info - INFO - Return the dataframe
+2024-10-08 14:05:45,661 - info - INFO - Return the dataframe
+2024-10-08 14:05:45,661 - info - INFO - Return the dataframe
+2024-10-08 14:05:45,661 - info - INFO - Return the dataframe
+2024-10-08 14:05:45,661 - info - INFO - Return the dataframe
+2024-10-08 14:05:45,661 - info - INFO - Return the dataframe
+2024-10-08 14:05:45,661 - info - INFO - Return the dataframe
+2024-10-08 14:05:45,661 - info - INFO - Return the dataframe
+2024-10-08 14:05:45,661 - info - INFO - Return the dataframe
+2024-10-08 14:05:45,661 - info - INFO - Return the dataframe
+2024-10-08 14:05:51,583 - info - INFO - Return the dataframe
+2024-10-08 14:05:51,583 - info - INFO - Return the dataframe
+2024-10-08 14:05:51,583 - info - INFO - Return the dataframe
+2024-10-08 14:05:51,583 - info - INFO - Return the dataframe
+2024-10-08 14:05:51,583 - info - INFO - Return the dataframe
+2024-10-08 14:05:51,583 - info - INFO - Return the dataframe
+2024-10-08 14:05:51,583 - info - INFO - Return the dataframe
+2024-10-08 14:05:51,583 - info - INFO - Return the dataframe
+2024-10-08 14:05:51,583 - info - INFO - Return the dataframe
+2024-10-08 14:05:51,583 - info - INFO - Return the dataframe
+2024-10-08 14:06:23,989 - info - INFO - Return the dataframe
+2024-10-08 14:06:23,989 - info - INFO - Return the dataframe
+2024-10-08 14:06:23,989 - info - INFO - Return the dataframe
+2024-10-08 14:06:23,989 - info - INFO - Return the dataframe
+2024-10-08 14:06:23,989 - info - INFO - Return the dataframe
+2024-10-08 14:06:23,989 - info - INFO - Return the dataframe
+2024-10-08 14:06:23,989 - info - INFO - Return the dataframe
+2024-10-08 14:06:23,989 - info - INFO - Return the dataframe
+2024-10-08 14:06:23,989 - info - INFO - Return the dataframe
+2024-10-08 14:06:23,989 - info - INFO - Return the dataframe
+2024-10-08 14:06:31,542 - info - INFO - Return the dataframe
+2024-10-08 14:06:31,542 - info - INFO - Return the dataframe
+2024-10-08 14:06:31,542 - info - INFO - Return the dataframe
+2024-10-08 14:06:31,542 - info - INFO - Return the dataframe
+2024-10-08 14:06:31,542 - info - INFO - Return the dataframe
+2024-10-08 14:06:31,542 - info - INFO - Return the dataframe
+2024-10-08 14:06:31,542 - info - INFO - Return the dataframe
+2024-10-08 14:06:31,542 - info - INFO - Return the dataframe
+2024-10-08 14:06:31,542 - info - INFO - Return the dataframe
+2024-10-08 14:06:31,542 - info - INFO - Return the dataframe
+2024-10-08 14:06:45,346 - info - INFO - Return the dataframe
+2024-10-08 14:06:45,346 - info - INFO - Return the dataframe
+2024-10-08 14:06:45,346 - info - INFO - Return the dataframe
+2024-10-08 14:06:45,346 - info - INFO - Return the dataframe
+2024-10-08 14:06:45,346 - info - INFO - Return the dataframe
+2024-10-08 14:06:45,346 - info - INFO - Return the dataframe
+2024-10-08 14:06:45,346 - info - INFO - Return the dataframe
+2024-10-08 14:06:45,346 - info - INFO - Return the dataframe
+2024-10-08 14:06:45,346 - info - INFO - Return the dataframe
+2024-10-08 14:06:45,346 - info - INFO - Return the dataframe
+2024-10-08 14:07:03,040 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:07:03,040 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:07:03,040 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:07:03,040 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:07:03,040 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:07:03,040 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:07:03,040 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:07:03,040 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:07:03,040 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:07:03,040 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:07:03,040 - info - INFO - Change datatype of some columns to category
+2024-10-08 14:07:03,966 - info - INFO - Return the dataframe
+2024-10-08 14:07:03,966 - info - INFO - Return the dataframe
+2024-10-08 14:07:03,966 - info - INFO - Return the dataframe
+2024-10-08 14:07:03,966 - info - INFO - Return the dataframe
+2024-10-08 14:07:03,966 - info - INFO - Return the dataframe
+2024-10-08 14:07:03,966 - info - INFO - Return the dataframe
+2024-10-08 14:07:03,966 - info - INFO - Return the dataframe
+2024-10-08 14:07:03,966 - info - INFO - Return the dataframe
+2024-10-08 14:07:03,966 - info - INFO - Return the dataframe
+2024-10-08 14:07:03,966 - info - INFO - Return the dataframe
+2024-10-08 14:07:03,966 - info - INFO - Return the dataframe
+2024-10-08 14:07:05,306 - info - INFO - Return the dataframe
+2024-10-08 14:07:05,306 - info - INFO - Return the dataframe
+2024-10-08 14:07:05,306 - info - INFO - Return the dataframe
+2024-10-08 14:07:05,306 - info - INFO - Return the dataframe
+2024-10-08 14:07:05,306 - info - INFO - Return the dataframe
+2024-10-08 14:07:05,306 - info - INFO - Return the dataframe
+2024-10-08 14:07:05,306 - info - INFO - Return the dataframe
+2024-10-08 14:07:05,306 - info - INFO - Return the dataframe
+2024-10-08 14:07:05,306 - info - INFO - Return the dataframe
+2024-10-08 14:07:05,306 - info - INFO - Return the dataframe
+2024-10-08 14:07:05,306 - info - INFO - Return the dataframe
+2024-10-08 22:27:41,811 - info - INFO - Change datatype of some columns to category
+2024-10-08 22:27:43,086 - info - INFO - Return the dataframe
+2024-10-08 22:27:45,131 - info - INFO - Return the dataframe
+2024-10-08 23:11:16,301 - info - INFO - Change datatype of some columns to category
+2024-10-08 23:11:16,301 - info - INFO - Change datatype of some columns to category
+2024-10-08 23:11:17,859 - info - INFO - Return the dataframe
+2024-10-08 23:11:17,859 - info - INFO - Return the dataframe
+2024-10-08 23:13:35,606 - info - INFO - Change datatype of some columns to category
+2024-10-08 23:13:35,606 - info - INFO - Change datatype of some columns to category
+2024-10-08 23:13:35,606 - info - INFO - Change datatype of some columns to category
+2024-10-08 23:13:37,014 - info - INFO - Return the dataframe
+2024-10-08 23:13:37,014 - info - INFO - Return the dataframe
+2024-10-08 23:13:37,014 - info - INFO - Return the dataframe
+2024-10-08 23:19:18,675 - info - INFO - Change datatype of some columns to category
+2024-10-08 23:19:18,675 - info - INFO - Change datatype of some columns to category
+2024-10-08 23:19:18,675 - info - INFO - Change datatype of some columns to category
+2024-10-08 23:19:18,675 - info - INFO - Change datatype of some columns to category
+2024-10-08 23:19:19,871 - info - INFO - Return the dataframe
+2024-10-08 23:19:19,871 - info - INFO - Return the dataframe
+2024-10-08 23:19:19,871 - info - INFO - Return the dataframe
+2024-10-08 23:19:19,871 - info - INFO - Return the dataframe
+2024-10-08 23:19:21,914 - info - INFO - Return the dataframe
+2024-10-08 23:19:21,914 - info - INFO - Return the dataframe
+2024-10-08 23:19:21,914 - info - INFO - Return the dataframe
+2024-10-08 23:19:21,914 - info - INFO - Return the dataframe
+2024-10-08 23:30:52,749 - info - INFO - Change datatype of some columns to category
+2024-10-08 23:30:52,749 - info - INFO - Change datatype of some columns to category
+2024-10-08 23:30:52,749 - info - INFO - Change datatype of some columns to category
+2024-10-08 23:30:52,749 - info - INFO - Change datatype of some columns to category
+2024-10-08 23:30:52,749 - info - INFO - Change datatype of some columns to category
+2024-10-08 23:30:54,312 - info - INFO - Return the dataframe
+2024-10-08 23:30:54,312 - info - INFO - Return the dataframe
+2024-10-08 23:30:54,312 - info - INFO - Return the dataframe
+2024-10-08 23:30:54,312 - info - INFO - Return the dataframe
+2024-10-08 23:30:54,312 - info - INFO - Return the dataframe
+2024-10-08 23:30:56,389 - info - INFO - Return the dataframe
+2024-10-08 23:30:56,389 - info - INFO - Return the dataframe
+2024-10-08 23:30:56,389 - info - INFO - Return the dataframe
+2024-10-08 23:30:56,389 - info - INFO - Return the dataframe
+2024-10-08 23:30:56,389 - info - INFO - Return the dataframe
+2024-10-09 00:16:15,649 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:16:15,649 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:16:15,649 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:16:15,649 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:16:15,649 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:16:15,649 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:16:17,149 - info - INFO - Return the dataframe
+2024-10-09 00:16:17,149 - info - INFO - Return the dataframe
+2024-10-09 00:16:17,149 - info - INFO - Return the dataframe
+2024-10-09 00:16:17,149 - info - INFO - Return the dataframe
+2024-10-09 00:16:17,149 - info - INFO - Return the dataframe
+2024-10-09 00:16:17,149 - info - INFO - Return the dataframe
+2024-10-09 00:16:19,178 - info - INFO - Return the dataframe
+2024-10-09 00:16:19,178 - info - INFO - Return the dataframe
+2024-10-09 00:16:19,178 - info - INFO - Return the dataframe
+2024-10-09 00:16:19,178 - info - INFO - Return the dataframe
+2024-10-09 00:16:19,178 - info - INFO - Return the dataframe
+2024-10-09 00:16:19,178 - info - INFO - Return the dataframe
+2024-10-09 00:18:24,776 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:18:24,776 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:18:24,776 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:18:24,776 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:18:24,776 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:18:24,776 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:18:24,776 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:18:26,132 - info - INFO - Return the dataframe
+2024-10-09 00:18:26,132 - info - INFO - Return the dataframe
+2024-10-09 00:18:26,132 - info - INFO - Return the dataframe
+2024-10-09 00:18:26,132 - info - INFO - Return the dataframe
+2024-10-09 00:18:26,132 - info - INFO - Return the dataframe
+2024-10-09 00:18:26,132 - info - INFO - Return the dataframe
+2024-10-09 00:18:26,132 - info - INFO - Return the dataframe
+2024-10-09 00:18:27,914 - info - INFO - Return the dataframe
+2024-10-09 00:18:27,914 - info - INFO - Return the dataframe
+2024-10-09 00:18:27,914 - info - INFO - Return the dataframe
+2024-10-09 00:18:27,914 - info - INFO - Return the dataframe
+2024-10-09 00:18:27,914 - info - INFO - Return the dataframe
+2024-10-09 00:18:27,914 - info - INFO - Return the dataframe
+2024-10-09 00:18:27,914 - info - INFO - Return the dataframe
+2024-10-09 00:21:08,672 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:21:08,672 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:21:08,672 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:21:08,672 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:21:08,672 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:21:08,672 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:21:08,672 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:21:08,672 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:21:09,814 - info - INFO - Return the dataframe
+2024-10-09 00:21:09,814 - info - INFO - Return the dataframe
+2024-10-09 00:21:09,814 - info - INFO - Return the dataframe
+2024-10-09 00:21:09,814 - info - INFO - Return the dataframe
+2024-10-09 00:21:09,814 - info - INFO - Return the dataframe
+2024-10-09 00:21:09,814 - info - INFO - Return the dataframe
+2024-10-09 00:21:09,814 - info - INFO - Return the dataframe
+2024-10-09 00:21:09,814 - info - INFO - Return the dataframe
+2024-10-09 00:21:11,478 - info - INFO - Return the dataframe
+2024-10-09 00:21:11,478 - info - INFO - Return the dataframe
+2024-10-09 00:21:11,478 - info - INFO - Return the dataframe
+2024-10-09 00:21:11,478 - info - INFO - Return the dataframe
+2024-10-09 00:21:11,478 - info - INFO - Return the dataframe
+2024-10-09 00:21:11,478 - info - INFO - Return the dataframe
+2024-10-09 00:21:11,478 - info - INFO - Return the dataframe
+2024-10-09 00:21:11,478 - info - INFO - Return the dataframe
+2024-10-09 00:51:59,733 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:51:59,733 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:51:59,733 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:51:59,733 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:51:59,733 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:51:59,733 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:51:59,733 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:51:59,733 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:51:59,733 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:52:01,130 - info - INFO - Return the dataframe
+2024-10-09 00:52:01,130 - info - INFO - Return the dataframe
+2024-10-09 00:52:01,130 - info - INFO - Return the dataframe
+2024-10-09 00:52:01,130 - info - INFO - Return the dataframe
+2024-10-09 00:52:01,130 - info - INFO - Return the dataframe
+2024-10-09 00:52:01,130 - info - INFO - Return the dataframe
+2024-10-09 00:52:01,130 - info - INFO - Return the dataframe
+2024-10-09 00:52:01,130 - info - INFO - Return the dataframe
+2024-10-09 00:52:01,130 - info - INFO - Return the dataframe
+2024-10-09 00:53:24,020 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:53:24,020 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:53:24,020 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:53:24,020 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:53:24,020 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:53:24,020 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:53:24,020 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:53:24,020 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:53:24,020 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:53:24,020 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:53:25,000 - info - INFO - Return the dataframe
+2024-10-09 00:53:25,000 - info - INFO - Return the dataframe
+2024-10-09 00:53:25,000 - info - INFO - Return the dataframe
+2024-10-09 00:53:25,000 - info - INFO - Return the dataframe
+2024-10-09 00:53:25,000 - info - INFO - Return the dataframe
+2024-10-09 00:53:25,000 - info - INFO - Return the dataframe
+2024-10-09 00:53:25,000 - info - INFO - Return the dataframe
+2024-10-09 00:53:25,000 - info - INFO - Return the dataframe
+2024-10-09 00:53:25,000 - info - INFO - Return the dataframe
+2024-10-09 00:53:25,000 - info - INFO - Return the dataframe
+2024-10-09 00:53:26,780 - info - INFO - Return the dataframe
+2024-10-09 00:53:26,780 - info - INFO - Return the dataframe
+2024-10-09 00:53:26,780 - info - INFO - Return the dataframe
+2024-10-09 00:53:26,780 - info - INFO - Return the dataframe
+2024-10-09 00:53:26,780 - info - INFO - Return the dataframe
+2024-10-09 00:53:26,780 - info - INFO - Return the dataframe
+2024-10-09 00:53:26,780 - info - INFO - Return the dataframe
+2024-10-09 00:53:26,780 - info - INFO - Return the dataframe
+2024-10-09 00:53:26,780 - info - INFO - Return the dataframe
+2024-10-09 00:53:26,780 - info - INFO - Return the dataframe
+2024-10-09 00:57:58,014 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:57:58,014 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:57:58,014 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:57:58,014 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:57:58,014 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:57:58,014 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:57:58,014 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:57:58,014 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:57:58,014 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:57:58,014 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:57:58,014 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:58:00,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:00,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:00,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:00,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:00,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:00,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:00,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:00,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:00,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:00,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:00,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:03,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:03,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:03,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:03,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:03,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:03,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:03,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:03,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:03,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:03,366 - info - INFO - Return the dataframe
+2024-10-09 00:58:03,366 - info - INFO - Return the dataframe
+2024-10-09 00:59:08,722 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:59:08,722 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:59:08,722 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:59:08,722 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:59:08,722 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:59:08,722 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:59:08,722 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:59:08,722 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:59:08,722 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:59:08,722 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:59:08,722 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:59:08,722 - info - INFO - Change datatype of some columns to category
+2024-10-09 00:59:12,107 - info - INFO - Return the dataframe
+2024-10-09 00:59:12,107 - info - INFO - Return the dataframe
+2024-10-09 00:59:12,107 - info - INFO - Return the dataframe
+2024-10-09 00:59:12,107 - info - INFO - Return the dataframe
+2024-10-09 00:59:12,107 - info - INFO - Return the dataframe
+2024-10-09 00:59:12,107 - info - INFO - Return the dataframe
+2024-10-09 00:59:12,107 - info - INFO - Return the dataframe
+2024-10-09 00:59:12,107 - info - INFO - Return the dataframe
+2024-10-09 00:59:12,107 - info - INFO - Return the dataframe
+2024-10-09 00:59:12,107 - info - INFO - Return the dataframe
+2024-10-09 00:59:12,107 - info - INFO - Return the dataframe
+2024-10-09 00:59:12,107 - info - INFO - Return the dataframe
+2024-10-09 00:59:14,983 - info - INFO - Return the dataframe
+2024-10-09 00:59:14,983 - info - INFO - Return the dataframe
+2024-10-09 00:59:14,983 - info - INFO - Return the dataframe
+2024-10-09 00:59:14,983 - info - INFO - Return the dataframe
+2024-10-09 00:59:14,983 - info - INFO - Return the dataframe
+2024-10-09 00:59:14,983 - info - INFO - Return the dataframe
+2024-10-09 00:59:14,983 - info - INFO - Return the dataframe
+2024-10-09 00:59:14,983 - info - INFO - Return the dataframe
+2024-10-09 00:59:14,983 - info - INFO - Return the dataframe
+2024-10-09 00:59:14,983 - info - INFO - Return the dataframe
+2024-10-09 00:59:14,983 - info - INFO - Return the dataframe
+2024-10-09 00:59:14,983 - info - INFO - Return the dataframe
+2024-10-09 01:02:18,831 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:02:18,831 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:02:18,831 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:02:18,831 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:02:18,831 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:02:18,831 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:02:18,831 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:02:18,831 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:02:18,831 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:02:18,831 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:02:18,831 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:02:18,831 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:02:18,831 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:02:20,422 - info - INFO - Return the dataframe
+2024-10-09 01:02:20,422 - info - INFO - Return the dataframe
+2024-10-09 01:02:20,422 - info - INFO - Return the dataframe
+2024-10-09 01:02:20,422 - info - INFO - Return the dataframe
+2024-10-09 01:02:20,422 - info - INFO - Return the dataframe
+2024-10-09 01:02:20,422 - info - INFO - Return the dataframe
+2024-10-09 01:02:20,422 - info - INFO - Return the dataframe
+2024-10-09 01:02:20,422 - info - INFO - Return the dataframe
+2024-10-09 01:02:20,422 - info - INFO - Return the dataframe
+2024-10-09 01:02:20,422 - info - INFO - Return the dataframe
+2024-10-09 01:02:20,422 - info - INFO - Return the dataframe
+2024-10-09 01:02:20,422 - info - INFO - Return the dataframe
+2024-10-09 01:02:20,422 - info - INFO - Return the dataframe
+2024-10-09 01:02:22,446 - info - INFO - Return the dataframe
+2024-10-09 01:02:22,446 - info - INFO - Return the dataframe
+2024-10-09 01:02:22,446 - info - INFO - Return the dataframe
+2024-10-09 01:02:22,446 - info - INFO - Return the dataframe
+2024-10-09 01:02:22,446 - info - INFO - Return the dataframe
+2024-10-09 01:02:22,446 - info - INFO - Return the dataframe
+2024-10-09 01:02:22,446 - info - INFO - Return the dataframe
+2024-10-09 01:02:22,446 - info - INFO - Return the dataframe
+2024-10-09 01:02:22,446 - info - INFO - Return the dataframe
+2024-10-09 01:02:22,446 - info - INFO - Return the dataframe
+2024-10-09 01:02:22,446 - info - INFO - Return the dataframe
+2024-10-09 01:02:22,446 - info - INFO - Return the dataframe
+2024-10-09 01:02:22,446 - info - INFO - Return the dataframe
+2024-10-09 01:03:04,009 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:03:04,009 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:03:04,009 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:03:04,009 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:03:04,009 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:03:04,009 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:03:04,009 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:03:04,009 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:03:04,009 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:03:04,009 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:03:04,009 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:03:04,009 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:03:04,009 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:03:04,009 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:03:05,407 - info - INFO - Return the dataframe
+2024-10-09 01:03:05,407 - info - INFO - Return the dataframe
+2024-10-09 01:03:05,407 - info - INFO - Return the dataframe
+2024-10-09 01:03:05,407 - info - INFO - Return the dataframe
+2024-10-09 01:03:05,407 - info - INFO - Return the dataframe
+2024-10-09 01:03:05,407 - info - INFO - Return the dataframe
+2024-10-09 01:03:05,407 - info - INFO - Return the dataframe
+2024-10-09 01:03:05,407 - info - INFO - Return the dataframe
+2024-10-09 01:03:05,407 - info - INFO - Return the dataframe
+2024-10-09 01:03:05,407 - info - INFO - Return the dataframe
+2024-10-09 01:03:05,407 - info - INFO - Return the dataframe
+2024-10-09 01:03:05,407 - info - INFO - Return the dataframe
+2024-10-09 01:03:05,407 - info - INFO - Return the dataframe
+2024-10-09 01:03:05,407 - info - INFO - Return the dataframe
+2024-10-09 01:03:07,818 - info - INFO - Return the dataframe
+2024-10-09 01:03:07,818 - info - INFO - Return the dataframe
+2024-10-09 01:03:07,818 - info - INFO - Return the dataframe
+2024-10-09 01:03:07,818 - info - INFO - Return the dataframe
+2024-10-09 01:03:07,818 - info - INFO - Return the dataframe
+2024-10-09 01:03:07,818 - info - INFO - Return the dataframe
+2024-10-09 01:03:07,818 - info - INFO - Return the dataframe
+2024-10-09 01:03:07,818 - info - INFO - Return the dataframe
+2024-10-09 01:03:07,818 - info - INFO - Return the dataframe
+2024-10-09 01:03:07,818 - info - INFO - Return the dataframe
+2024-10-09 01:03:07,818 - info - INFO - Return the dataframe
+2024-10-09 01:03:07,818 - info - INFO - Return the dataframe
+2024-10-09 01:03:07,818 - info - INFO - Return the dataframe
+2024-10-09 01:03:07,818 - info - INFO - Return the dataframe
+2024-10-09 01:10:05,238 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:10:05,238 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:10:05,238 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:10:05,238 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:10:05,238 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:10:05,238 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:10:05,238 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:10:05,238 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:10:05,238 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:10:05,238 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:10:05,238 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:10:05,238 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:10:05,238 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:10:05,238 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:10:05,238 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:10:06,605 - info - INFO - Return the dataframe
+2024-10-09 01:10:06,605 - info - INFO - Return the dataframe
+2024-10-09 01:10:06,605 - info - INFO - Return the dataframe
+2024-10-09 01:10:06,605 - info - INFO - Return the dataframe
+2024-10-09 01:10:06,605 - info - INFO - Return the dataframe
+2024-10-09 01:10:06,605 - info - INFO - Return the dataframe
+2024-10-09 01:10:06,605 - info - INFO - Return the dataframe
+2024-10-09 01:10:06,605 - info - INFO - Return the dataframe
+2024-10-09 01:10:06,605 - info - INFO - Return the dataframe
+2024-10-09 01:10:06,605 - info - INFO - Return the dataframe
+2024-10-09 01:10:06,605 - info - INFO - Return the dataframe
+2024-10-09 01:10:06,605 - info - INFO - Return the dataframe
+2024-10-09 01:10:06,605 - info - INFO - Return the dataframe
+2024-10-09 01:10:06,605 - info - INFO - Return the dataframe
+2024-10-09 01:10:06,605 - info - INFO - Return the dataframe
+2024-10-09 01:10:08,340 - info - INFO - Return the dataframe
+2024-10-09 01:10:08,340 - info - INFO - Return the dataframe
+2024-10-09 01:10:08,340 - info - INFO - Return the dataframe
+2024-10-09 01:10:08,340 - info - INFO - Return the dataframe
+2024-10-09 01:10:08,340 - info - INFO - Return the dataframe
+2024-10-09 01:10:08,340 - info - INFO - Return the dataframe
+2024-10-09 01:10:08,340 - info - INFO - Return the dataframe
+2024-10-09 01:10:08,340 - info - INFO - Return the dataframe
+2024-10-09 01:10:08,340 - info - INFO - Return the dataframe
+2024-10-09 01:10:08,340 - info - INFO - Return the dataframe
+2024-10-09 01:10:08,340 - info - INFO - Return the dataframe
+2024-10-09 01:10:08,340 - info - INFO - Return the dataframe
+2024-10-09 01:10:08,340 - info - INFO - Return the dataframe
+2024-10-09 01:10:08,340 - info - INFO - Return the dataframe
+2024-10-09 01:10:08,340 - info - INFO - Return the dataframe
+2024-10-09 01:14:35,414 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:14:35,414 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:14:35,414 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:14:35,414 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:14:35,414 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:14:35,414 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:14:35,414 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:14:35,414 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:14:35,414 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:14:35,414 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:14:35,414 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:14:35,414 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:14:35,414 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:14:35,414 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:14:35,414 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:14:35,414 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:14:36,653 - info - INFO - Return the dataframe
+2024-10-09 01:14:36,653 - info - INFO - Return the dataframe
+2024-10-09 01:14:36,653 - info - INFO - Return the dataframe
+2024-10-09 01:14:36,653 - info - INFO - Return the dataframe
+2024-10-09 01:14:36,653 - info - INFO - Return the dataframe
+2024-10-09 01:14:36,653 - info - INFO - Return the dataframe
+2024-10-09 01:14:36,653 - info - INFO - Return the dataframe
+2024-10-09 01:14:36,653 - info - INFO - Return the dataframe
+2024-10-09 01:14:36,653 - info - INFO - Return the dataframe
+2024-10-09 01:14:36,653 - info - INFO - Return the dataframe
+2024-10-09 01:14:36,653 - info - INFO - Return the dataframe
+2024-10-09 01:14:36,653 - info - INFO - Return the dataframe
+2024-10-09 01:14:36,653 - info - INFO - Return the dataframe
+2024-10-09 01:14:36,653 - info - INFO - Return the dataframe
+2024-10-09 01:14:36,653 - info - INFO - Return the dataframe
+2024-10-09 01:14:36,653 - info - INFO - Return the dataframe
+2024-10-09 01:14:39,304 - info - INFO - Return the dataframe
+2024-10-09 01:14:39,304 - info - INFO - Return the dataframe
+2024-10-09 01:14:39,304 - info - INFO - Return the dataframe
+2024-10-09 01:14:39,304 - info - INFO - Return the dataframe
+2024-10-09 01:14:39,304 - info - INFO - Return the dataframe
+2024-10-09 01:14:39,304 - info - INFO - Return the dataframe
+2024-10-09 01:14:39,304 - info - INFO - Return the dataframe
+2024-10-09 01:14:39,304 - info - INFO - Return the dataframe
+2024-10-09 01:14:39,304 - info - INFO - Return the dataframe
+2024-10-09 01:14:39,304 - info - INFO - Return the dataframe
+2024-10-09 01:14:39,304 - info - INFO - Return the dataframe
+2024-10-09 01:14:39,304 - info - INFO - Return the dataframe
+2024-10-09 01:14:39,304 - info - INFO - Return the dataframe
+2024-10-09 01:14:39,304 - info - INFO - Return the dataframe
+2024-10-09 01:14:39,304 - info - INFO - Return the dataframe
+2024-10-09 01:14:39,304 - info - INFO - Return the dataframe
+2024-10-09 01:16:49,232 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:16:49,232 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:16:49,232 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:16:49,232 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:16:49,232 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:16:49,232 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:16:49,232 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:16:49,232 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:16:49,232 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:16:49,232 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:16:49,232 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:16:49,232 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:16:49,232 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:16:49,232 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:16:49,232 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:16:49,232 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:16:49,232 - info - INFO - Change datatype of some columns to category
+2024-10-09 01:16:50,503 - info - INFO - Return the dataframe
+2024-10-09 01:16:50,503 - info - INFO - Return the dataframe
+2024-10-09 01:16:50,503 - info - INFO - Return the dataframe
+2024-10-09 01:16:50,503 - info - INFO - Return the dataframe
+2024-10-09 01:16:50,503 - info - INFO - Return the dataframe
+2024-10-09 01:16:50,503 - info - INFO - Return the dataframe
+2024-10-09 01:16:50,503 - info - INFO - Return the dataframe
+2024-10-09 01:16:50,503 - info - INFO - Return the dataframe
+2024-10-09 01:16:50,503 - info - INFO - Return the dataframe
+2024-10-09 01:16:50,503 - info - INFO - Return the dataframe
+2024-10-09 01:16:50,503 - info - INFO - Return the dataframe
+2024-10-09 01:16:50,503 - info - INFO - Return the dataframe
+2024-10-09 01:16:50,503 - info - INFO - Return the dataframe
+2024-10-09 01:16:50,503 - info - INFO - Return the dataframe
+2024-10-09 01:16:50,503 - info - INFO - Return the dataframe
+2024-10-09 01:16:50,503 - info - INFO - Return the dataframe
+2024-10-09 01:16:50,503 - info - INFO - Return the dataframe
+2024-10-09 01:16:52,482 - info - INFO - Return the dataframe
+2024-10-09 01:16:52,482 - info - INFO - Return the dataframe
+2024-10-09 01:16:52,482 - info - INFO - Return the dataframe
+2024-10-09 01:16:52,482 - info - INFO - Return the dataframe
+2024-10-09 01:16:52,482 - info - INFO - Return the dataframe
+2024-10-09 01:16:52,482 - info - INFO - Return the dataframe
+2024-10-09 01:16:52,482 - info - INFO - Return the dataframe
+2024-10-09 01:16:52,482 - info - INFO - Return the dataframe
+2024-10-09 01:16:52,482 - info - INFO - Return the dataframe
+2024-10-09 01:16:52,482 - info - INFO - Return the dataframe
+2024-10-09 01:16:52,482 - info - INFO - Return the dataframe
+2024-10-09 01:16:52,482 - info - INFO - Return the dataframe
+2024-10-09 01:16:52,482 - info - INFO - Return the dataframe
+2024-10-09 01:16:52,482 - info - INFO - Return the dataframe
+2024-10-09 01:16:52,482 - info - INFO - Return the dataframe
+2024-10-09 01:16:52,482 - info - INFO - Return the dataframe
+2024-10-09 01:16:52,482 - info - INFO - Return the dataframe
+2024-10-09 09:57:38,171 - info - INFO - Change datatype of some columns to category
+2024-10-09 09:57:39,145 - info - INFO - Return the dataframe
+2024-10-09 09:57:40,906 - info - INFO - Return the dataframe
+2024-10-09 10:38:44,762 - info - INFO - Change datatype of some columns to category
+2024-10-09 10:38:44,762 - info - INFO - Change datatype of some columns to category
+2024-10-09 10:38:45,778 - info - INFO - Return the dataframe
+2024-10-09 10:38:45,778 - info - INFO - Return the dataframe
+2024-10-09 10:38:47,915 - info - INFO - Return the dataframe
+2024-10-09 10:38:47,915 - info - INFO - Return the dataframe
+2024-10-09 10:39:13,343 - info - INFO - Change datatype of some columns to category
+2024-10-09 10:39:13,343 - info - INFO - Change datatype of some columns to category
+2024-10-09 10:39:13,343 - info - INFO - Change datatype of some columns to category
+2024-10-09 10:39:14,299 - info - INFO - Return the dataframe
+2024-10-09 10:39:14,299 - info - INFO - Return the dataframe
+2024-10-09 10:39:14,299 - info - INFO - Return the dataframe
+2024-10-09 10:39:15,702 - info - INFO - Return the dataframe
+2024-10-09 10:39:15,702 - info - INFO - Return the dataframe
+2024-10-09 10:39:15,702 - info - INFO - Return the dataframe
+2024-10-09 10:52:18,390 - info - INFO - Change datatype of some columns to category
+2024-10-09 10:52:18,390 - info - INFO - Change datatype of some columns to category
+2024-10-09 10:52:18,390 - info - INFO - Change datatype of some columns to category
+2024-10-09 10:52:18,390 - info - INFO - Change datatype of some columns to category
+2024-10-09 10:52:19,537 - info - INFO - Return the dataframe
+2024-10-09 10:52:19,537 - info - INFO - Return the dataframe
+2024-10-09 10:52:19,537 - info - INFO - Return the dataframe
+2024-10-09 10:52:19,537 - info - INFO - Return the dataframe
+2024-10-09 10:52:21,009 - info - INFO - Return the dataframe
+2024-10-09 10:52:21,009 - info - INFO - Return the dataframe
+2024-10-09 10:52:21,009 - info - INFO - Return the dataframe
+2024-10-09 10:52:21,009 - info - INFO - Return the dataframe
+2024-10-09 11:20:11,481 - info - INFO - Return the dataframe
+2024-10-09 11:20:11,481 - info - INFO - Return the dataframe
+2024-10-09 11:20:11,481 - info - INFO - Return the dataframe
+2024-10-09 11:20:11,481 - info - INFO - Return the dataframe
+2024-10-09 14:42:55,153 - info - INFO - Change datatype of some columns to category
+2024-10-09 14:42:55,153 - info - INFO - Change datatype of some columns to category
+2024-10-09 14:42:55,153 - info - INFO - Change datatype of some columns to category
+2024-10-09 14:42:55,153 - info - INFO - Change datatype of some columns to category
+2024-10-09 14:42:55,153 - info - INFO - Change datatype of some columns to category
+2024-10-09 14:42:56,540 - info - INFO - Return the dataframe
+2024-10-09 14:42:56,540 - info - INFO - Return the dataframe
+2024-10-09 14:42:56,540 - info - INFO - Return the dataframe
+2024-10-09 14:42:56,540 - info - INFO - Return the dataframe
+2024-10-09 14:42:56,540 - info - INFO - Return the dataframe
+2024-10-09 14:42:59,986 - info - INFO - Return the dataframe
+2024-10-09 14:42:59,986 - info - INFO - Return the dataframe
+2024-10-09 14:42:59,986 - info - INFO - Return the dataframe
+2024-10-09 14:42:59,986 - info - INFO - Return the dataframe
+2024-10-09 14:42:59,986 - info - INFO - Return the dataframe
+2024-10-09 14:43:00,701 - info - INFO - Return the dataframe
+2024-10-09 14:43:00,701 - info - INFO - Return the dataframe
+2024-10-09 14:43:00,701 - info - INFO - Return the dataframe
+2024-10-09 14:43:00,701 - info - INFO - Return the dataframe
+2024-10-09 14:43:00,701 - info - INFO - Return the dataframe
+2024-10-09 15:08:54,473 - info - INFO - Change datatype of some columns to category
+2024-10-09 15:08:54,473 - info - INFO - Change datatype of some columns to category
+2024-10-09 15:08:54,473 - info - INFO - Change datatype of some columns to category
+2024-10-09 15:08:54,473 - info - INFO - Change datatype of some columns to category
+2024-10-09 15:08:54,473 - info - INFO - Change datatype of some columns to category
+2024-10-09 15:08:54,473 - info - INFO - Change datatype of some columns to category
+2024-10-09 15:08:55,732 - info - INFO - Return the dataframe
+2024-10-09 15:08:55,732 - info - INFO - Return the dataframe
+2024-10-09 15:08:55,732 - info - INFO - Return the dataframe
+2024-10-09 15:08:55,732 - info - INFO - Return the dataframe
+2024-10-09 15:08:55,732 - info - INFO - Return the dataframe
+2024-10-09 15:08:55,732 - info - INFO - Return the dataframe
+2024-10-09 15:08:57,118 - info - INFO - Return the dataframe
+2024-10-09 15:08:57,118 - info - INFO - Return the dataframe
+2024-10-09 15:08:57,118 - info - INFO - Return the dataframe
+2024-10-09 15:08:57,118 - info - INFO - Return the dataframe
+2024-10-09 15:08:57,118 - info - INFO - Return the dataframe
+2024-10-09 15:08:57,118 - info - INFO - Return the dataframe
+2024-10-09 15:08:57,375 - info - INFO - Return the dataframe
+2024-10-09 15:08:57,375 - info - INFO - Return the dataframe
+2024-10-09 15:08:57,375 - info - INFO - Return the dataframe
+2024-10-09 15:08:57,375 - info - INFO - Return the dataframe
+2024-10-09 15:08:57,375 - info - INFO - Return the dataframe
+2024-10-09 15:08:57,375 - info - INFO - Return the dataframe
+2024-10-09 15:17:57,271 - info - INFO - Change datatype of some columns to category
+2024-10-09 15:17:57,271 - info - INFO - Change datatype of some columns to category
+2024-10-09 15:17:57,271 - info - INFO - Change datatype of some columns to category
+2024-10-09 15:17:57,271 - info - INFO - Change datatype of some columns to category
+2024-10-09 15:17:57,271 - info - INFO - Change datatype of some columns to category
+2024-10-09 15:17:57,271 - info - INFO - Change datatype of some columns to category
+2024-10-09 15:17:57,271 - info - INFO - Change datatype of some columns to category
+2024-10-09 15:17:58,703 - info - INFO - Return the dataframe
+2024-10-09 15:17:58,703 - info - INFO - Return the dataframe
+2024-10-09 15:17:58,703 - info - INFO - Return the dataframe
+2024-10-09 15:17:58,703 - info - INFO - Return the dataframe
+2024-10-09 15:17:58,703 - info - INFO - Return the dataframe
+2024-10-09 15:17:58,703 - info - INFO - Return the dataframe
+2024-10-09 15:17:58,703 - info - INFO - Return the dataframe
+2024-10-09 15:17:58,718 - info - INFO - Feature engineering aggregating over customers
+2024-10-09 15:17:58,718 - info - INFO - Feature engineering aggregating over customers
+2024-10-09 15:17:58,718 - info - INFO - Feature engineering aggregating over customers
+2024-10-09 15:17:58,718 - info - INFO - Feature engineering aggregating over customers
+2024-10-09 15:17:58,718 - info - INFO - Feature engineering aggregating over customers
+2024-10-09 15:17:58,718 - info - INFO - Feature engineering aggregating over customers
+2024-10-09 15:17:58,718 - info - INFO - Feature engineering aggregating over customers
+2024-10-09 15:17:58,922 - info - INFO - Extracting date feature from datetime
+2024-10-09 15:17:58,922 - info - INFO - Extracting date feature from datetime
+2024-10-09 15:17:58,922 - info - INFO - Extracting date feature from datetime
+2024-10-09 15:17:58,922 - info - INFO - Extracting date feature from datetime
+2024-10-09 15:17:58,922 - info - INFO - Extracting date feature from datetime
+2024-10-09 15:17:58,922 - info - INFO - Extracting date feature from datetime
+2024-10-09 15:17:58,922 - info - INFO - Extracting date feature from datetime
+2024-10-09 15:17:58,980 - info - INFO - Label encoding categorical features
+2024-10-09 15:17:58,980 - info - INFO - Label encoding categorical features
+2024-10-09 15:17:58,980 - info - INFO - Label encoding categorical features
+2024-10-09 15:17:58,980 - info - INFO - Label encoding categorical features
+2024-10-09 15:17:58,980 - info - INFO - Label encoding categorical features
+2024-10-09 15:17:58,980 - info - INFO - Label encoding categorical features
+2024-10-09 15:17:58,980 - info - INFO - Label encoding categorical features
+2024-10-09 15:18:00,563 - info - INFO - Filling null values by zero
+2024-10-09 15:18:00,563 - info - INFO - Filling null values by zero
+2024-10-09 15:18:00,563 - info - INFO - Filling null values by zero
+2024-10-09 15:18:00,563 - info - INFO - Filling null values by zero
+2024-10-09 15:18:00,563 - info - INFO - Filling null values by zero
+2024-10-09 15:18:00,563 - info - INFO - Filling null values by zero
+2024-10-09 15:18:00,563 - info - INFO - Filling null values by zero
+2024-10-09 15:18:00,575 - info - INFO - Return the dataframe
+2024-10-09 15:18:00,575 - info - INFO - Return the dataframe
+2024-10-09 15:18:00,575 - info - INFO - Return the dataframe
+2024-10-09 15:18:00,575 - info - INFO - Return the dataframe
+2024-10-09 15:18:00,575 - info - INFO - Return the dataframe
+2024-10-09 15:18:00,575 - info - INFO - Return the dataframe
+2024-10-09 15:18:00,575 - info - INFO - Return the dataframe
+2024-10-09 15:18:00,634 - info - INFO - Standardization using standard scaler
+2024-10-09 15:18:00,634 - info - INFO - Standardization using standard scaler
+2024-10-09 15:18:00,634 - info - INFO - Standardization using standard scaler
+2024-10-09 15:18:00,634 - info - INFO - Standardization using standard scaler
+2024-10-09 15:18:00,634 - info - INFO - Standardization using standard scaler
+2024-10-09 15:18:00,634 - info - INFO - Standardization using standard scaler
+2024-10-09 15:18:00,634 - info - INFO - Standardization using standard scaler
+2024-10-09 15:18:00,682 - info - INFO - Calculating risk score
+2024-10-09 15:18:00,682 - info - INFO - Calculating risk score
+2024-10-09 15:18:00,682 - info - INFO - Calculating risk score
+2024-10-09 15:18:00,682 - info - INFO - Calculating risk score
+2024-10-09 15:18:00,682 - info - INFO - Calculating risk score
+2024-10-09 15:18:00,682 - info - INFO - Calculating risk score
+2024-10-09 15:18:00,682 - info - INFO - Calculating risk score
+2024-10-09 15:18:00,701 - info - INFO - Using k-means for getting default behavior
+2024-10-09 15:18:00,701 - info - INFO - Using k-means for getting default behavior
+2024-10-09 15:18:00,701 - info - INFO - Using k-means for getting default behavior
+2024-10-09 15:18:00,701 - info - INFO - Using k-means for getting default behavior
+2024-10-09 15:18:00,701 - info - INFO - Using k-means for getting default behavior
+2024-10-09 15:18:00,701 - info - INFO - Using k-means for getting default behavior
+2024-10-09 15:18:00,701 - info - INFO - Using k-means for getting default behavior
+2024-10-09 15:18:00,875 - info - INFO - Return the dataframe
+2024-10-09 15:18:00,875 - info - INFO - Return the dataframe
+2024-10-09 15:18:00,875 - info - INFO - Return the dataframe
+2024-10-09 15:18:00,875 - info - INFO - Return the dataframe
+2024-10-09 15:18:00,875 - info - INFO - Return the dataframe
+2024-10-09 15:18:00,875 - info - INFO - Return the dataframe
+2024-10-09 15:18:00,875 - info - INFO - Return the dataframe
+2024-10-09 15:18:00,926 - info - INFO - Weight of Evidence
+2024-10-09 15:18:00,926 - info - INFO - Weight of Evidence
+2024-10-09 15:18:00,926 - info - INFO - Weight of Evidence
+2024-10-09 15:18:00,926 - info - INFO - Weight of Evidence
+2024-10-09 15:18:00,926 - info - INFO - Weight of Evidence
+2024-10-09 15:18:00,926 - info - INFO - Weight of Evidence
+2024-10-09 15:18:00,926 - info - INFO - Weight of Evidence
+2024-10-09 15:18:03,576 - info - INFO - Return the dataframe
+2024-10-09 15:18:03,576 - info - INFO - Return the dataframe
+2024-10-09 15:18:03,576 - info - INFO - Return the dataframe
+2024-10-09 15:18:03,576 - info - INFO - Return the dataframe
+2024-10-09 15:18:03,576 - info - INFO - Return the dataframe
+2024-10-09 15:18:03,576 - info - INFO - Return the dataframe
+2024-10-09 15:18:03,576 - info - INFO - Return the dataframe
+2024-10-09 15:18:03,640 - info - INFO - Closing logging
+2024-10-09 15:18:03,640 - info - INFO - Closing logging
+2024-10-09 15:18:03,640 - info - INFO - Closing logging
+2024-10-09 15:18:03,640 - info - INFO - Closing logging
+2024-10-09 15:18:03,640 - info - INFO - Closing logging
+2024-10-09 15:18:03,640 - info - INFO - Closing logging
+2024-10-09 15:18:03,640 - info - INFO - Closing logging
+2024-10-09 15:21:10,940 - info - INFO - Change datatype of some columns to category
+2024-10-09 15:21:11,892 - info - INFO - Return the dataframe
+2024-10-09 15:21:11,911 - info - INFO - Feature engineering aggregating over customers
+2024-10-09 15:21:12,060 - info - INFO - Extracting date feature from datetime
+2024-10-09 15:21:12,108 - info - INFO - Label encoding categorical features
+2024-10-09 15:21:13,876 - info - INFO - Filling null values by zero
+2024-10-09 15:21:13,886 - info - INFO - Return the dataframe
+2024-10-09 15:21:13,959 - info - INFO - Standardization using standard scaler
+2024-10-09 15:21:14,023 - info - INFO - Calculating risk score
+2024-10-09 15:21:14,047 - info - INFO - Using k-means for getting default behavior
+2024-10-09 15:21:14,225 - info - INFO - Return the dataframe
+2024-10-09 15:21:14,257 - info - INFO - Weight of Evidence
+2024-10-09 15:21:17,224 - info - INFO - Return the dataframe
+2024-10-09 15:21:25,236 - info - INFO - Closing logging
+2024-10-09 15:22:18,648 - info - INFO - Change datatype of some columns to category
+2024-10-09 15:22:19,638 - info - INFO - Return the dataframe
+2024-10-09 15:22:19,657 - info - INFO - Feature engineering aggregating over customers
+2024-10-09 15:22:19,833 - info - INFO - Extracting date feature from datetime
+2024-10-09 15:22:19,883 - info - INFO - Label encoding categorical features
+2024-10-09 15:22:21,225 - info - INFO - Filling null values by zero
+2024-10-09 15:22:21,236 - info - INFO - Return the dataframe
+2024-10-09 15:22:21,301 - info - INFO - Standardization using standard scaler
+2024-10-09 15:22:21,354 - info - INFO - Calculating risk score
+2024-10-09 15:22:21,370 - info - INFO - Using k-means for getting default behavior
+2024-10-09 15:22:21,488 - info - INFO - Return the dataframe
+2024-10-09 15:22:21,517 - info - INFO - Weight of Evidence
+2024-10-09 15:22:23,894 - info - INFO - Return the dataframe
+2024-10-09 15:22:30,845 - info - INFO - Closing logging
