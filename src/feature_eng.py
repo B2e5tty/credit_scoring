@@ -211,7 +211,6 @@ class FeatEng:
 
 
     # close logging
-    # close log process
     def close_log(self):
         self.info_log.info('Closing logging')
         handlers = self.info_log.handlers[:]
